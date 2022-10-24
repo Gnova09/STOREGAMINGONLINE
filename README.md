@@ -1,6 +1,6 @@
 # STOREGAMINGONLINE
 TIENDA VIRTUAL GAMING PROYECTO PROGRAMACION 2
-Web App para proyecto final de programacion con MVC
+Web App para proyecto final de programacion con MVC.
 
 Created by:
 Leonys Vásquez 2021-2398
