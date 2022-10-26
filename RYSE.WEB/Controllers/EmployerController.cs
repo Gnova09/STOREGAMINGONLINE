@@ -3,27 +3,30 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace RYSE.WEB.Controllers
 {
-    public class ArticulosController1 : Controller
+    public class EmployerController : Controller
     {
-        // GET: ArticulosController1
+        // GET: EmployerController1
         public ActionResult Index()
         {
             return View();
         }
 
-        // GET: ArticulosController1/Details/5
+        // GET: EmployerController1/Details/5
         public ActionResult Details(int id)
         {
+            Models.Employer employer = new Models.Employer();
+            
+           
             return View();
         }
 
-        // GET: ArticulosController1/Create
+        // GET: EmployerController1/Create
         public ActionResult Create()
         {
             return View();
         }
 
-        // POST: ArticulosController1/Create
+        // POST: EmployerController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(IFormCollection collection)
@@ -38,20 +41,19 @@ namespace RYSE.WEB.Controllers
             }
         }
 
-        // GET: ArticulosController1/Edit/5
+        // GET: EmployerController1/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: ArticulosController1/Edit/5
+        // POST: EmployerController1/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
         {
             try
             {
-                Models.Articulos articulos = new Models.Articulos();
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -60,13 +62,13 @@ namespace RYSE.WEB.Controllers
             }
         }
 
-        // GET: ArticulosController1/Delete/5
+        // GET: EmployerController1/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: ArticulosController1/Delete/5
+        // POST: EmployerController1/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)

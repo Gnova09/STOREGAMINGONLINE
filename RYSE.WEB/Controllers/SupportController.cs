@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace RYSE.WEB.Controllers
 {
-    public class SupportController1 : Controller
+    public class SupportController : Controller
     {
         // GET: SupportController1
         public ActionResult Index()
