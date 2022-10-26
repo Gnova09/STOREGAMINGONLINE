@@ -14,8 +14,9 @@
 
         public int Tamaño { get; set; }
 
+        public string? Precio { get; set;}
 
-
+        public int? Peso { get; set; }
 
     }
 }
