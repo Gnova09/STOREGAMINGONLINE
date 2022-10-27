@@ -7,10 +7,28 @@ a.navbar-brand[b-2pzf5oh5mn] {
   text-align: center;
   word-break: break-all;
 }
-
-a[b-2pzf5oh5mn] {
-  color: #0077cc;
+nav[b-2pzf5oh5mn]{
+  color: white !important;
 }
+.navbar[b-2pzf5oh5mn]{
+    padding-bottom:0.2rem;
+  
+}
+.navbar-light .navbar-brand[b-2pzf5oh5mn]{color: white !important;}
+.Search_input[b-2pzf5oh5mn]{
+  border: 1px solid silver;
+  border-radius: 30px;
+}
+
+.Search_btn[b-2pzf5oh5mn]::before{
+  font-family: "Font Awesome 5 Free";
+  content: "\f095";
+  display: inline-block;
+  padding-right: 3px;
+  vertical-align: middle;
+  font-weight: 900;
+}
+
 
 .btn-primary[b-2pzf5oh5mn] {
   color: #fff;
@@ -47,3 +65,87 @@ button.accept-policy[b-2pzf5oh5mn] {
   white-space: nowrap;
   line-height: 60px;
 }
+/*BODY HOME*/
+.title[b-2pzf5oh5mn]{
+  margin: 10px;
+}
+.browser[b-2pzf5oh5mn]{
+    
+  margin: 10px;
+  display: flex;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  background-color: rgb(228, 209, 228);
+  border-radius: 10px;
+}    
+
+.browser:hover[b-2pzf5oh5mn]{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.formato[b-2pzf5oh5mn]{
+  border-radius: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  width: 50%;
+  width: 300px;
+  height: 200px;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+}
+.formato:hover[b-2pzf5oh5mn]{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.shop-item[b-2pzf5oh5mn]{
+    right: 10px;
+}
+.shop-item:hover[b-2pzf5oh5mn]{
+    cursor:pointer;
+
+}
+.nav[b-2pzf5oh5mn] {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-item-ul[b-2pzf5oh5mn] {
+    display: none;
+}
+.btn_shop[b-2pzf5oh5mn]{
+    height:100%
+
+}
+.btn_shop:hover .menu-item-div[b-2pzf5oh5mn] {
+    position: absolute;
+    left: 0;
+    top:50px;
+    z-index: 1;
+    gap: 20px;
+    color: black;
+    transition: ease 0.5s;
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border: 0.4px solid gray;
+    width: 100%;
+    height: 150px;
+    align-items: center;
+    justify-content: center;
+}
+.btn_shop:hover .menu-item-ul[b-2pzf5oh5mn] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+}
+
+
+.menu-item-ul > a[b-2pzf5oh5mn] , .menu-item-ul li[b-2pzf5oh5mn] {
+    text-decoration: none;
+    color: black !important;
+    list-style: none;
+}
+
+ 
