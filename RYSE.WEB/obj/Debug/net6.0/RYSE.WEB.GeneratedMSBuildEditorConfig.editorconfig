@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RYSE.WEB
 build_property.RootNamespace = RYSE.WEB
-build_property.ProjectDir = D:\Escritorio\PROGRAMACION\repositorio\STOREONLINE\RYSE.WEB\
+build_property.ProjectDir = C:\Users\Georg\Source\Repos\Gnova09\STOREGAMINGONLINE\RYSE.WEB\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Escritorio\PROGRAMACION\repositorio\STOREONLINE\RYSE.WEB
+build_property.MSBuildProjectDirectory = C:\Users\Georg\Source\Repos\Gnova09\STOREGAMINGONLINE\RYSE.WEB
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Cliente/Create.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Cliente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Cliente/Index.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Cliente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Home/Index.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Home/Privacy.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Home/_ViewImports.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Home/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Shared/Error.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/_ViewImports.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/_ViewStart.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Escritorio/PROGRAMACION/repositorio/STOREONLINE/RYSE.WEB/Views/Shared/_Layout.cshtml]
+[C:/Users/Georg/Source/Repos/Gnova09/STOREGAMINGONLINE/RYSE.WEB/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2pzf5oh5mn
