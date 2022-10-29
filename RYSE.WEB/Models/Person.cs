@@ -1,6 +1,6 @@
 ﻿namespace RYSE.WEB.Models
 {
-    public class Person
+    public abstract class Person:BaseEnity
     {
         public int PersonId { get; set; }
 
