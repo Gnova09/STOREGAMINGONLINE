@@ -1,7 +1,8 @@
-﻿namespace RYSE.STOREONLINE.DAL
-{
-    public class Class1
-    {
+﻿using System;
 
-    }
+public class Class1
+{
+	public Class1()
+	{
+	}
 }
